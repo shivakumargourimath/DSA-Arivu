@@ -1,7 +1,4 @@
 # DSA-Arivu
-Documenting my journey of solving one DSA problem every day. Code, notes, and consistency!
-
-# 🧠 DSA Daily Journey
 
 Welcome to my personal **Daily DSA Journey** repository! 🚀  
 Here, I document my daily progress solving **Data Structures and Algorithms** problems. The goal is to build consistency, improve problem-solving skills, and prepare for coding interviews.
